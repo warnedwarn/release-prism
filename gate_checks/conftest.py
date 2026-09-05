@@ -4,4 +4,4 @@ def safe(path,*a,**k):
  try:return _unlink(path,*a,**k)
  except PermissionError:return None
 os.unlink=safe
-CONTRACT='contract/release_prism.py'
+CONTRACT='promotion_engine/release_prism.py'
