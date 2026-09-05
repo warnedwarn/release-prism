@@ -1,0 +1,1 @@
+Release Prism 2.4.0 adds audit export. Database schema is unchanged and migration notes are complete.

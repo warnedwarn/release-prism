@@ -1,0 +1,1 @@
+Signed CI report RP-240: all 148 mandatory tests passed. Signature key release-ci-4. No skipped mandatory suite.

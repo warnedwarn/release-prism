@@ -1,0 +1,1 @@
+Security advisory snapshot RP-240: zero critical or high unresolved advisories for release 2.4.0.
