@@ -1,0 +1,30 @@
+{
+  "id": "RP-1788576911",
+  "transactions": {
+    "nominate": "0x9d07ac615e1da28d2c464489978599aab0b5e0524c66b65adca286a567303853",
+    "assess": "0x06e525c8983e54997f6837f5daea74f01dd2723d89d38bc8f2c2d7d92b97268a"
+  },
+  "state": {
+    "checkCodes": [
+      "MANDATORY_TESTS_PASSED",
+      "NO_CRITICAL_ADVISORIES",
+      "SIGNATURE_VERIFIED"
+    ],
+    "deadline": 1788577511,
+    "decision": "PROMOTE",
+    "digests": [
+      "128ea775246dadbd07a2bc5649939eaeed9db7677147ef3572727d38ff4e255b",
+      "5ef3e57d002d34a4e0cfc6c4024c876916ace5416d987aae17f9985c30ab0d9d",
+      "9a470791b85282e6797d2fce9b32815ad708e7206c8614013e995f8f003c55dd"
+    ],
+    "id": "RP-1788576911",
+    "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "release": "2.4.0",
+    "sources": [
+      "https://raw.githubusercontent.com/warnedwarn/release-prism/b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/release.txt",
+      "https://cdn.jsdelivr.net/gh/warnedwarn/release-prism@b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/tests.txt",
+      "https://github.com/warnedwarn/release-prism/raw/b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/security.txt"
+    ],
+    "state": "PROMOTED"
+  }
+}
