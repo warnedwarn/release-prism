@@ -1,29 +1,31 @@
 {
-  "id": "RP-1788576911",
+  "id": "RP-1788740330",
+  "contract": "0x72405f4dFC8D58061Da8ED7149Be64979d8c9D73",
+  "sourceCommit": "45890e6271b5f16ae1e5b5a9edc6f8edc2f7213f",
   "transactions": {
-    "nominate": "0x9d07ac615e1da28d2c464489978599aab0b5e0524c66b65adca286a567303853",
-    "assess": "0x06e525c8983e54997f6837f5daea74f01dd2723d89d38bc8f2c2d7d92b97268a"
+    "nominate": "0xfc10e065710132516ad60fed89d93f00a19ae8f4c7e5e09be687b05c78c265d8",
+    "assess": "0x4e5984c3b450e771a6d5a3986aaa63ad33bec5c4805ea39f55455ee5f5bf94a0"
   },
   "state": {
     "checkCodes": [
-      "MANDATORY_TESTS_PASSED",
-      "NO_CRITICAL_ADVISORIES",
-      "SIGNATURE_VERIFIED"
+      "SECURITY_CLEAR",
+      "TESTS_PASSED",
+      "VERSION_MATCH"
     ],
-    "deadline": 1788577511,
+    "deadline": 1788742130,
     "decision": "PROMOTE",
     "digests": [
       "128ea775246dadbd07a2bc5649939eaeed9db7677147ef3572727d38ff4e255b",
-      "5ef3e57d002d34a4e0cfc6c4024c876916ace5416d987aae17f9985c30ab0d9d",
+      "1a07cffca28987fb4f4aeb07c777fbc4be95f3ce7ef95b7163fef8ed89b81459",
       "9a470791b85282e6797d2fce9b32815ad708e7206c8614013e995f8f003c55dd"
     ],
-    "id": "RP-1788576911",
+    "id": "RP-1788740330",
     "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
     "release": "2.4.0",
     "sources": [
-      "https://raw.githubusercontent.com/warnedwarn/release-prism/b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/release.txt",
-      "https://cdn.jsdelivr.net/gh/warnedwarn/release-prism@b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/tests.txt",
-      "https://github.com/warnedwarn/release-prism/raw/b5161f2a14f1154b1e9817dc9d8c3d19b03a732c/evidence/security.txt"
+      "https://raw.githubusercontent.com/warnedwarn/release-prism/45890e6271b5f16ae1e5b5a9edc6f8edc2f7213f/evidence/release.txt",
+      "https://cdn.jsdelivr.net/gh/warnedwarn/release-prism@45890e6271b5f16ae1e5b5a9edc6f8edc2f7213f/evidence/tests.txt",
+      "https://github.com/warnedwarn/release-prism/raw/45890e6271b5f16ae1e5b5a9edc6f8edc2f7213f/evidence/security.txt"
     ],
     "state": "PROMOTED"
   }
